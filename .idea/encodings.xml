@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/common/Background.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/common/IntentBeyond.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/home/v3/car/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/home/v3/car/Move.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/home/v3/car/road/AStarH.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/home/v3/car/road/AStarL.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/home/v3/car/road/AStarM.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/home/v3/car/utils/ButtonBreath.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/home/v3/car/utils/Command.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/resource/Position.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/beyondscreen/mazecar/resource/S.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

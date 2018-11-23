@@ -1,4 +1,6 @@
 # test
 # BleCar
-![](app\src\main\res\drawable\20181122_164537_1.gif)
-![](app\src\main\res\drawable\20181122_164537_2.gif)
+ 非完整项目，有些代码不方便上传。
+ 工程中对于客户端扫描不灵敏的问题进行了处理
+![](app\src\main\res\drawable\pic1.gif)
+![](app\src\main\res\drawable\pic2.gif)
